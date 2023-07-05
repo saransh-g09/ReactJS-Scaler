@@ -17,3 +17,5 @@ Awesome`);
 let a=22;
 
 console.log(`My age is `+ a );
+//another way:
+console.log(`My age is ${a}`);
